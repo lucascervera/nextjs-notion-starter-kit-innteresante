@@ -13,13 +13,13 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Emprendedor Startups Innovación Diseño de Negocio',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageTitle: 'Lucas Cervera',
+  socialImageSubtitle: 'Lucas Cervera',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'lucascervera',
+  github: 'lucascervera',
+  linkedin: 'lucascervera',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
