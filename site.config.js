@@ -1,20 +1,20 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'bcaa170dd72340699da9a352da29f452',
+  rootNotionPageId: '1d492992c6254e1a887e95d70ae2073e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lucas Cervera',
-  domain: 'lucascervera.com',
+  name: 'Innteresante',
+  domain: 'linnteresante.com',
   author: 'Lucas Cervera',
 
   // open graph metadata (optional)
-  description: 'Emprendedor Startups Innovación Diseño de Negocio',
-  socialImageTitle: 'Lucas Cervera',
-  socialImageSubtitle: 'Lucas Cervera',
+  description: 'Conoce las innovaciones más sorprendentes, creativas e impactantes',
+  socialImageTitle: 'Innteresante',
+  socialImageSubtitle: 'Innteresante',
 
   // social usernames (optional)
   twitter: 'lucascervera',
