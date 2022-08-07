@@ -24,6 +24,7 @@ export const PageHead: React.FC<types.PageProps> = ({ site }) => {
       <meta name='theme-color' content='#EB625A' />
       <meta property='og:type' content='website' />
       
+      
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KN64N6NYW9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
